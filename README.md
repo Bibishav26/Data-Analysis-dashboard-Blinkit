@@ -14,6 +14,9 @@ Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folde
 - <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss2.png">[View Here image 2]<a/>
 - <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss3.png">[View Here image 3]<a/>
 
+## Project Video
+- <a href="https://drive.google.com/file/d/19CNB2npLpKKzS1XcOSpsYS9t6BXwFVpN/view?usp=drive_link">[View Here]<a/>
+
 ## KPI's Requirement
 1.Total Sales: The overall revenue generated from all items sold.
 2.Average Sales: The average revenue per sale.
