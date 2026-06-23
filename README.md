@@ -20,10 +20,10 @@ Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folde
 - <a href="https://drive.google.com/file/d/1vM3OavTcUwUngmAc5S4uNKHL1BmTcPKu/view?usp=sharing">[View Here]<a/>
 
 ## KPI's Requirement
-1.Total Sales: The overall revenue generated from all items sold.<br>
-2.Average Sales: The average revenue per sale.<br>
-3.Number of Items: The total count of different items sold.<br>
-4.Average Rating: The average customer rating for items sold
+1. Total Sales: The overall revenue generated from all items sold.<br>
+2. Average Sales: The average revenue per sale.<br>
+3. Number of Items: The total count of different items sold.<br>
+4. Average Rating: The average customer rating for items sold
 
 ## Granular Requirements
 1. Total Sales by Fat Content:
