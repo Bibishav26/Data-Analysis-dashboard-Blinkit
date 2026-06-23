@@ -10,7 +10,9 @@ To analyze Blinkit’s sales performance and customer purchasing behavior by bui
 Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folders/1pyd1_S65xEpON-HQvOWGzMQ0ADZh3Vit?usp=sharing">[View Here]<a/>
 
 ## Dashboard Image
-
+- <a href="(https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss1.png)">[View Here image 1]<a/>
+- <a href="(https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss2.png)">[View Here image 2]<a/>
+- <a href="(https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss3.png)">[View Here image 3]<a/>
 
 ## KPI's Requirement
 1.Total Sales: The overall revenue generated from all items sold.
