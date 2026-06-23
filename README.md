@@ -9,6 +9,9 @@ To analyze Blinkit’s sales performance and customer purchasing behavior by bui
 ## Project File
 Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folders/1pyd1_S65xEpON-HQvOWGzMQ0ADZh3Vit?usp=sharing">[View Here]<a/>
 
+## Dashboard Image
+
+
 ## KPI's Requirement
 1.Total Sales: The overall revenue generated from all items sold.
 2.Average Sales: The average revenue per sale.
