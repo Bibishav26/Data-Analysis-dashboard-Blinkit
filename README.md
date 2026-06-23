@@ -10,9 +10,9 @@ To analyze Blinkit’s sales performance and customer purchasing behavior by bui
 Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folders/1pyd1_S65xEpON-HQvOWGzMQ0ADZh3Vit?usp=sharing">[View Here]<a/>
 
 ## Dashboard Image
-- <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss1.png">[View Here image 1]<a/>
-- <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss2.png">[View Here image 2]<a/>
-- <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/project%20ss3.png">[View Here image 3]<a/>
+<img width="1837" height="892" alt="project ss1" src="https://github.com/user-attachments/assets/cf2fc04a-88df-4302-b1de-d26306c3a619" />
+<img width="1657" height="901" alt="project ss2" src="https://github.com/user-attachments/assets/3c53bbb9-56aa-4b47-a916-1bd1080db695" />
+<img width="1686" height="899" alt="project ss3" src="https://github.com/user-attachments/assets/190f7459-f579-4906-9f38-511535929aff" />
 
 ## Project Video
 - <a href="https://drive.google.com/file/d/19CNB2npLpKKzS1XcOSpsYS9t6BXwFVpN/view?usp=drive_link">[View Here]<a/>
