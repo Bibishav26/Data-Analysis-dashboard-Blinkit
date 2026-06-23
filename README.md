@@ -4,7 +4,7 @@
 To analyze Blinkit’s sales performance and customer purchasing behavior by building an interactive Power BI dashboard that provides insights into revenue trends, product performance, customer ratings, and outlet-wise sales for better business decision-making.
 
 ## Dataset Used
-- <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset<a/>
+- <a href="https://github.com/Bibishav26/Data-Analysis-dashboard-Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx">Excel Dataset<a/>
 
 ## Project File
 Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folders/1pyd1_S65xEpON-HQvOWGzMQ0ADZh3Vit?usp=sharing">[View Here]<a/>
