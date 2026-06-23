@@ -11,8 +11,13 @@ Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folde
 
 ## Dashboard Image
 <img width="1837" height="892" alt="project ss1" src="https://github.com/user-attachments/assets/cf2fc04a-88df-4302-b1de-d26306c3a619" />
+
+
 <img width="1657" height="901" alt="project ss2" src="https://github.com/user-attachments/assets/3c53bbb9-56aa-4b47-a916-1bd1080db695" />
+
+
 <img width="1686" height="899" alt="project ss3" src="https://github.com/user-attachments/assets/190f7459-f579-4906-9f38-511535929aff" />
+
 
 ## Project Video
 - <a href="https://drive.google.com/file/d/19CNB2npLpKKzS1XcOSpsYS9t6BXwFVpN/view?usp=drive_link">[View Here]<a/>
