@@ -10,30 +10,14 @@ To analyze Blinkit’s sales performance and customer purchasing behavior by bui
 Power BI Project (.pbix zipped): - <a href="https://drive.google.com/drive/folders/1pyd1_S65xEpON-HQvOWGzMQ0ADZh3Vit?usp=sharing">[View Here]<a/>
 
 ## Dashboard Image
-<img width="1837" height="892" alt="project ss1" src="https://github.com/user-attachments/assets/cf2fc04a-88df-4302-b1de-d26306c3a619" />
+<img width="1396" height="734" alt="project biss1" src="https://github.com/user-attachments/assets/fc5607a0-c94b-4dbe-a0be-3188e9b67be9" />
+<br><br><br><br><br>
+<img width="1391" height="731" alt="project bi ss3" src="https://github.com/user-attachments/assets/41f3aa6e-5ed7-4b80-be33-1907914834ab" />
+<br><br><br><br><br>
+<img width="1920" height="797" alt="project bi ss4" src="https://github.com/user-attachments/assets/e6cb1327-274e-46d8-b008-24b6ba7f353d" />
 
-
-
-
-
-<img width="1657" height="901" alt="project ss2" src="https://github.com/user-attachments/assets/3c53bbb9-56aa-4b47-a916-1bd1080db695" />
-
-
-
-
-
-
-
-<img width="1686" height="899" alt="project ss3" src="https://github.com/user-attachments/assets/190f7459-f579-4906-9f38-511535929aff" />
-
-
-
-
-
-
-
-## Project Video
-- <a href="https://drive.google.com/file/d/19CNB2npLpKKzS1XcOSpsYS9t6BXwFVpN/view?usp=drive_link">[View Here]<a/>
+## Project Presentation Video
+- <a href="https://drive.google.com/file/d/1vM3OavTcUwUngmAc5S4uNKHL1BmTcPKu/view?usp=sharing">[View Here]<a/>
 
 ## KPI's Requirement
 1.Total Sales: The overall revenue generated from all items sold.
